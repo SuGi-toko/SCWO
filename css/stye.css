@@ -1,5 +1,6 @@
 h1{
     font-size:50px;
+    font-family: "游明朝";
     color:#000080;
     text-align:center;
     border-radius:3px;
@@ -8,32 +9,29 @@ h1{
 
 h2{
     font-size:25px;
-
+    font-family: "游明朝";
     color:#000080;
-    
     line-height: 5pt;
 }
 
 
 p1{
     font-size:17px;
-
     font-family: "游明朝";
-    
     color:#000000
 }
 
 
 p2{
     font-size:17px;
-
+    font-family: "游明朝";
     line-height: 2;
 }
 
 
 p3{font-size:20px;
-   
-    color:#dd0000
+   font-family: "游明朝";
+   color:#dd0000
 }
 
 
@@ -43,11 +41,11 @@ p3{font-size:20px;
 
 address{
     font-size:17px;
-    
+    font-family: "游明朝";
     text-align:center;
-    
     background-color:#C2EEFF
 }
+
 
 
 

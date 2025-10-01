@@ -17,13 +17,17 @@ h2{
 
 p1{
     font-size:17px;
+    
     color:#000000
+        
     margin-bottom: 40px;
 }
 
 
 p2{font-size:20px;
+   
     color:#dd0000
+        
     margin-bottom: 40px;
 }
 
@@ -34,8 +38,11 @@ p2{font-size:20px;
 
 address{
     font-size:17px;
+    
     text-align:center;
+    
     background-color:#C2EEFF
 }
+
 
 

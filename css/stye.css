@@ -21,7 +21,13 @@ p1{
     color:#000000
 }
 
+
 p2{
+    margin-bottom: 40px;
+}
+
+
+p3{
     font-size:20px;
 
     color:#dd0000
@@ -35,3 +41,4 @@ address{
     text-align:center;
     background-color:#C2EEFF
 }
+

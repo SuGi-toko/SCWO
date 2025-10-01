@@ -17,21 +17,17 @@ h2{
 
 p1{
     font-size:17px;
-    
     color:#000000
-}
-
-
-p2{
     margin-bottom: 40px;
 }
 
 
-p3{
-    font-size:20px;
-
+p2{font-size:20px;
     color:#dd0000
+    margin-bottom: 40px;
 }
+
+
 
 
 
@@ -41,4 +37,5 @@ address{
     text-align:center;
     background-color:#C2EEFF
 }
+
 

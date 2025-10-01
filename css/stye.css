@@ -22,7 +22,15 @@ p1{
 }
 
 
-p2{font-size:20px;
+p2{
+    
+    line-heifont-size:17px;
+
+    line-height: 2;
+}
+
+
+p3{font-size:20px;
    
     color:#dd0000
 }
@@ -39,6 +47,7 @@ address{
     
     background-color:#C2EEFF
 }
+
 
 
 

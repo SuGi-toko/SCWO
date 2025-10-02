@@ -1,4 +1,7 @@
 h1{
+    padding: 0.25em 0.5em;/*上下 左右の余白*/
+    background: transparent;/*背景透明に*/
+    border-left: solid 5px #7db4e6;/*左線*/
     font-size:50px;
     font-family: "游明朝";
     color:#000080;
@@ -45,6 +48,7 @@ address{
     text-align:center;
     background-color:#C2EEFF
 }
+
 
 
 

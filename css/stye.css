@@ -4,13 +4,13 @@ h1{
     color:#000080;
     text-align:center;
     border-radius:3px;
-    background-color:#C2EEFF
+    background-color:#000080
 }
 
 h2{
     font-size:25px;
     font-family: "游明朝";
-    color:#000080;
+    color:#C2EEFF;
     line-height: 5pt;
 }
 
